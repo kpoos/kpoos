@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+
+[![Krisztián Poós on CertDirectory](https://certdirectory.io/badge/krisztian-poos.svg?style=card)](https://certdirectory.io/profile/krisztian-poos?utm_source=github&utm_medium=readme)
+
 <!--
 **kpoos/kpoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Krisztián Poós on CertDirectory](https://certdirectory.io/badge/krisztian-poos.svg?style=card)](https://certdirectory.io/profile/krisztian-poos?utm_source=github&utm_medium=readme)
 
 Here are some ideas to get you started:
 
